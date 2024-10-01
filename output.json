@@ -1,0 +1,653 @@
+{
+    "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations,customfield_10702.requestTypePractice",
+    "id": "140224",
+    "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140224",
+    "key": "CS-4397",
+    "fields": {
+        "customfield_11040": null,
+        "customfield_11041": null,
+        "customfield_11042": null,
+        "customfield_11043": null,
+        "customfield_11044": null,
+        "customfield_11045": null,
+        "customfield_10870": null,
+        "customfield_10871": null,
+        "resolution": null,
+        "customfield_10993": null,
+        "customfield_10751": null,
+        "customfield_10872": null,
+        "customfield_10752": null,
+        "customfield_10873": null,
+        "customfield_10994": null,
+        "customfield_11039": null,
+        "customfield_10500": [],
+        "customfield_10744": null,
+        "customfield_10988": null,
+        "customfield_10746": null,
+        "customfield_10747": null,
+        "customfield_10869": null,
+        "customfield_10748": null,
+        "customfield_10749": null,
+        "lastViewed": "2024-08-12T09:18:07.606-0400",
+        "customfield_11032": null,
+        "customfield_11034": null,
+        "customfield_11035": null,
+        "customfield_11036": null,
+        "customfield_11037": null,
+        "customfield_11038": null,
+        "labels": [],
+        "customfield_11028": null,
+        "customfield_10852": null,
+        "customfield_11029": null,
+        "customfield_10974": null,
+        "customfield_10975": null,
+        "aggregatetimeoriginalestimate": null,
+        "issuelinks": [],
+        "assignee": {
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/user?accountId=6237f715a95758006958e3ee",
+            "accountId": "6237f715a95758006958e3ee",
+            "emailAddress": "nsubramaniam@uptycs.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png",
+                "24x24": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png",
+                "16x16": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png",
+                "32x32": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png"
+            },
+            "displayName": "Narayanan Subramaniam",
+            "active": true,
+            "timeZone": "America/New_York",
+            "accountType": "atlassian"
+        },
+        "components": [],
+        "customfield_11020": null,
+        "customfield_11024": null,
+        "customfield_11025": null,
+        "customfield_11026": null,
+        "customfield_11027": null,
+        "customfield_10851": null,
+        "customfield_10720": null,
+        "customfield_11018": null,
+        "customfield_10721": null,
+        "customfield_10600": null,
+        "customfield_10722": null,
+        "customfield_11019": null,
+        "customfield_10723": null,
+        "customfield_10845": null,
+        "customfield_10724": null,
+        "customfield_10725": null,
+        "customfield_10846": null,
+        "customfield_10847": null,
+        "customfield_10726": null,
+        "customfield_10727": null,
+        "customfield_10848": null,
+        "customfield_10849": null,
+        "customfield_10728": null,
+        "customfield_10729": null,
+        "subtasks": [],
+        "reporter": {
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/user?accountId=712020%3A5da6c434-1967-4b51-9838-72c78311fc7a",
+            "accountId": "712020:5da6c434-1967-4b51-9838-72c78311fc7a",
+            "emailAddress": "kadirikumar@uptycs.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                "24x24": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                "16x16": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                "32x32": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png"
+            },
+            "displayName": "Kadiri Mohan Kumar",
+            "active": true,
+            "timeZone": "Asia/Kolkata",
+            "accountType": "atlassian"
+        },
+        "customfield_11011": null,
+        "customfield_11012": null,
+        "customfield_11014": null,
+        "customfield_10951": null,
+        "customfield_11006": null,
+        "customfield_11007": null,
+        "customfield_10952": null,
+        "customfield_10831": null,
+        "customfield_10710": null,
+        "customfield_10953": null,
+        "customfield_10954": null,
+        "customfield_10712": null,
+        "customfield_10833": null,
+        "customfield_10955": null,
+        "customfield_10713": null,
+        "customfield_10714": null,
+        "customfield_10715": null,
+        "customfield_10716": null,
+        "customfield_10717": null,
+        "progress": {
+            "progress": 0,
+            "total": 0
+        },
+        "customfield_10718": null,
+        "votes": {
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/CS-4397/votes",
+            "votes": 0,
+            "hasVoted": false
+        },
+        "customfield_10719": null,
+        "worklog": {
+            "startAt": 0,
+            "maxResults": 20,
+            "total": 0,
+            "worklogs": []
+        },
+        "issuetype": {
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issuetype/10430",
+            "id": "10430",
+            "description": "New Feature Request issue type that customers may request from time to time",
+            "iconUrl": "https://uptycsjira.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10311?size=medium",
+            "name": "Feature Request",
+            "subtask": false,
+            "avatarId": 10311,
+            "entityId": "56dd4609-4662-4de0-9c7f-1cf507ee013d",
+            "hierarchyLevel": 0
+        },
+        "project": {
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/project/10642",
+            "id": "10642",
+            "key": "CS",
+            "name": "Customer Success",
+            "projectTypeKey": "software",
+            "simplified": true,
+            "avatarUrls": {
+                "48x48": "https://uptycsjira.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10852",
+                "24x24": "https://uptycsjira.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10852?size=small",
+                "16x16": "https://uptycsjira.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10852?size=xsmall",
+                "32x32": "https://uptycsjira.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10852?size=medium"
+            },
+            "projectCategory": {
+                "self": "https://uptycsjira.atlassian.net/rest/api/3/projectCategory/10003",
+                "id": "10003",
+                "description": "Customized version of Team Managed Customer Support Projects for Uptycs",
+                "name": "Uptycs-Custom-Support"
+            }
+        },
+        "customfield_11000": null,
+        "customfield_10950": null,
+        "customfield_11005": null,
+        "customfield_10940": null,
+        "customfield_10700": null,
+        "customfield_10821": null,
+        "customfield_10701": null,
+        "customfield_10702": null,
+        "customfield_10703": [],
+        "customfield_10704": null,
+        "resolutiondate": null,
+        "customfield_10705": null,
+        "customfield_10948": [
+            {
+                "self": "https://uptycsjira.atlassian.net/rest/api/3/user?accountId=712020%3A5da6c434-1967-4b51-9838-72c78311fc7a",
+                "accountId": "712020:5da6c434-1967-4b51-9838-72c78311fc7a",
+                "emailAddress": "kadirikumar@uptycs.com",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                    "24x24": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                    "16x16": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                    "32x32": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png"
+                },
+                "displayName": "Kadiri Mohan Kumar",
+                "active": true,
+                "timeZone": "Asia/Kolkata",
+                "accountType": "atlassian"
+            },
+            {
+                "self": "https://uptycsjira.atlassian.net/rest/api/3/user?accountId=6237f715a95758006958e3ee",
+                "accountId": "6237f715a95758006958e3ee",
+                "emailAddress": "nsubramaniam@uptycs.com",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png",
+                    "24x24": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png",
+                    "16x16": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png",
+                    "32x32": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png"
+                },
+                "displayName": "Narayanan Subramaniam",
+                "active": true,
+                "timeZone": "America/New_York",
+                "accountType": "atlassian"
+            }
+        ],
+        "customfield_10706": null,
+        "customfield_10827": 5640,
+        "watches": {
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/CS-4397/watchers",
+            "watchCount": 3,
+            "isWatching": true
+        },
+        "customfield_10022": null,
+        "customfield_10016": null,
+        "customfield_10930": null,
+        "customfield_10017": null,
+        "customfield_10810": null,
+        "customfield_10931": null,
+        "customfield_10932": null,
+        "customfield_10933": null,
+        "customfield_10934": null,
+        "customfield_10813": null,
+        "customfield_10814": {
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/customFieldOption/10270",
+            "value": "XDR",
+            "id": "10270"
+        },
+        "customfield_10935": [],
+        "customfield_10815": null,
+        "customfield_10936": null,
+        "customfield_10816": null,
+        "customfield_10937": null,
+        "customfield_10938": null,
+        "customfield_10939": null,
+        "updated": "2024-08-09T03:39:14.587-0400",
+        "timeoriginalestimate": null,
+        "description": {
+            "version": 1,
+            "type": "doc",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "We would like to have the latest published CIS security guidelines for RHEL8 in Uptycs. Is there a release planned for RHEL8  on Uptycs? Do you have a date confirmed?"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Requested Benchmarks:"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "RHEL8 v3.0.0",
+                            "marks": [
+                                {
+                                    "type": "code"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "RHEL9 v2.0.0",
+                            "marks": [
+                                {
+                                    "type": "code"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "timetracking": {},
+        "customfield_10015": "1|i03qh3:",
+        "customfield_10920": null,
+        "customfield_10921": null,
+        "customfield_10922": null,
+        "customfield_10923": null,
+        "customfield_10924": null,
+        "customfield_10925": null,
+        "customfield_10926": null,
+        "customfield_10927": null,
+        "customfield_10928": null,
+        "customfield_10929": null,
+        "customfield_10809": {
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/customFieldOption/10310",
+            "value": "FINRA",
+            "id": "10310"
+        },
+        "summary": "Latest Published RHEL 8 and RHEL 9 Guidelines",
+        "customfield_10000": "2024-08-09T03:39:10.761-0400",
+        "customfield_10001": null,
+        "environment": null,
+        "customfield_10910": null,
+        "customfield_10911": null,
+        "customfield_10912": null,
+        "duedate": null,
+        "customfield_10913": null,
+        "customfield_10914": null,
+        "customfield_10915": null,
+        "customfield_10916": null,
+        "customfield_10917": null,
+        "comment": {
+            "comments": [
+                {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140224/comment/362886",
+                    "id": "362886",
+                    "author": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/user?accountId=712020%3A5da6c434-1967-4b51-9838-72c78311fc7a",
+                        "accountId": "712020:5da6c434-1967-4b51-9838-72c78311fc7a",
+                        "emailAddress": "kadirikumar@uptycs.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                            "24x24": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                            "16x16": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                            "32x32": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png"
+                        },
+                        "displayName": "Kadiri Mohan Kumar",
+                        "active": true,
+                        "timeZone": "Asia/Kolkata",
+                        "accountType": "atlassian"
+                    },
+                    "body": {
+                        "version": 1,
+                        "type": "doc",
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "content": [
+                                    {
+                                        "type": "mention",
+                                        "attrs": {
+                                            "id": "6237f715a95758006958e3ee",
+                                            "text": "@Narayanan Subramaniam",
+                                            "accessLevel": ""
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Is RHEL 8 present in the road map"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "updateAuthor": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/user?accountId=712020%3A5da6c434-1967-4b51-9838-72c78311fc7a",
+                        "accountId": "712020:5da6c434-1967-4b51-9838-72c78311fc7a",
+                        "emailAddress": "kadirikumar@uptycs.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                            "24x24": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                            "16x16": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                            "32x32": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png"
+                        },
+                        "displayName": "Kadiri Mohan Kumar",
+                        "active": true,
+                        "timeZone": "Asia/Kolkata",
+                        "accountType": "atlassian"
+                    },
+                    "created": "2024-08-07T11:27:28.972-0400",
+                    "updated": "2024-08-07T11:27:28.972-0400",
+                    "jsdPublic": true
+                },
+                {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140224/comment/363261",
+                    "id": "363261",
+                    "author": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/user?accountId=712020%3A5da6c434-1967-4b51-9838-72c78311fc7a",
+                        "accountId": "712020:5da6c434-1967-4b51-9838-72c78311fc7a",
+                        "emailAddress": "kadirikumar@uptycs.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                            "24x24": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                            "16x16": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                            "32x32": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png"
+                        },
+                        "displayName": "Kadiri Mohan Kumar",
+                        "active": true,
+                        "timeZone": "Asia/Kolkata",
+                        "accountType": "atlassian"
+                    },
+                    "body": {
+                        "version": 1,
+                        "type": "doc",
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "content": [
+                                    {
+                                        "type": "mention",
+                                        "attrs": {
+                                            "id": "6237f715a95758006958e3ee",
+                                            "text": "@Narayanan Subramaniam",
+                                            "accessLevel": ""
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " FINRA has requested for lastest version of Benchmarks RHEL8 v3.0.0 and RHEL9 v2.0.0. Do we have currently these items in our feature set roadmap?"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "updateAuthor": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/user?accountId=712020%3A5da6c434-1967-4b51-9838-72c78311fc7a",
+                        "accountId": "712020:5da6c434-1967-4b51-9838-72c78311fc7a",
+                        "emailAddress": "kadirikumar@uptycs.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                            "24x24": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                            "16x16": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png",
+                            "32x32": "https://secure.gravatar.com/avatar/fb7a5c489f09b9078efbbed00ca133f4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKK-3.png"
+                        },
+                        "displayName": "Kadiri Mohan Kumar",
+                        "active": true,
+                        "timeZone": "Asia/Kolkata",
+                        "accountType": "atlassian"
+                    },
+                    "created": "2024-08-09T01:52:10.710-0400",
+                    "updated": "2024-08-09T01:52:10.710-0400",
+                    "jsdPublic": true
+                },
+                {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140224/comment/363279",
+                    "id": "363279",
+                    "author": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/user?accountId=6237f715a95758006958e3ee",
+                        "accountId": "6237f715a95758006958e3ee",
+                        "emailAddress": "nsubramaniam@uptycs.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png",
+                            "24x24": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png",
+                            "16x16": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png",
+                            "32x32": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png"
+                        },
+                        "displayName": "Narayanan Subramaniam",
+                        "active": true,
+                        "timeZone": "America/New_York",
+                        "accountType": "atlassian"
+                    },
+                    "body": {
+                        "version": 1,
+                        "type": "doc",
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "content": [
+                                    {
+                                        "type": "mention",
+                                        "attrs": {
+                                            "id": "712020:5da6c434-1967-4b51-9838-72c78311fc7a",
+                                            "text": "@Kadiri Mohan Kumar",
+                                            "accessLevel": ""
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Let me discuss  regarding the plan and timelines with  "
+                                    },
+                                    {
+                                        "type": "mention",
+                                        "attrs": {
+                                            "id": "712020:cc35dcb0-cc80-4ed6-a8e3-68ed98406c76",
+                                            "text": "@Abhinav Mishra",
+                                            "accessLevel": ""
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " on the RHEL 8 v3.0.0 & RHEL 9 v2.0.0 requirements . I will get back to you post discussion."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "updateAuthor": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/user?accountId=6237f715a95758006958e3ee",
+                        "accountId": "6237f715a95758006958e3ee",
+                        "emailAddress": "nsubramaniam@uptycs.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png",
+                            "24x24": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png",
+                            "16x16": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png",
+                            "32x32": "https://secure.gravatar.com/avatar/3f632ba2f6cd40dadf9231918fed04db?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-5.png"
+                        },
+                        "displayName": "Narayanan Subramaniam",
+                        "active": true,
+                        "timeZone": "America/New_York",
+                        "accountType": "atlassian"
+                    },
+                    "created": "2024-08-09T03:39:10.761-0400",
+                    "updated": "2024-08-09T03:39:10.761-0400",
+                    "jsdPublic": true
+                }
+            ],
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140224/comment",
+            "maxResults": 3,
+            "total": 3,
+            "startAt": 0
+        },
+        "customfield_10918": null,
+        "customfield_10919": null,
+        "statuscategorychangedate": "2024-08-09T03:39:14.588-0400",
+        "fixVersions": [],
+        "customfield_10907": null,
+        "customfield_10908": null,
+        "customfield_10909": null,
+        "priority": {
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/priority/3",
+            "iconUrl": "https://uptycsjira.atlassian.net/images/icons/priorities/medium.svg",
+            "name": "Medium",
+            "id": "3"
+        },
+        "timeestimate": null,
+        "versions": [],
+        "status": {
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+            "description": "",
+            "iconUrl": "https://uptycsjira.atlassian.net/",
+            "name": "IN REVIEW",
+            "id": "10573",
+            "statusCategory": {
+                "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                "id": 4,
+                "key": "indeterminate",
+                "colorName": "yellow",
+                "name": "In Progress"
+            }
+        },
+        "aggregatetimeestimate": null,
+        "customfield_11090": null,
+        "customfield_11091": null,
+        "creator": {
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/user?accountId=712020%3A5463e091-d083-4c99-abd9-38270c75ab65",
+            "accountId": "712020:5463e091-d083-4c99-abd9-38270c75ab65",
+            "emailAddress": "customersuccess@uptycs.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/5a87cde324731ff4f32b09f7e9946c39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCS-6.png",
+                "24x24": "https://secure.gravatar.com/avatar/5a87cde324731ff4f32b09f7e9946c39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCS-6.png",
+                "16x16": "https://secure.gravatar.com/avatar/5a87cde324731ff4f32b09f7e9946c39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCS-6.png",
+                "32x32": "https://secure.gravatar.com/avatar/5a87cde324731ff4f32b09f7e9946c39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCS-6.png"
+            },
+            "displayName": "Customer Success",
+            "active": true,
+            "timeZone": "America/New_York",
+            "accountType": "atlassian"
+        },
+        "customfield_11092": null,
+        "aggregateprogress": {
+            "progress": 0,
+            "total": 0
+        },
+        "customfield_10200": {
+            "hasEpicLinkFieldDependency": false,
+            "showField": false,
+            "nonEditableReason": {
+                "reason": "EPIC_LINK_SHOULD_BE_USED",
+                "message": "To set an epic as the parent, use the epic link instead"
+            }
+        },
+        "customfield_11081": null,
+        "timespent": null,
+        "customfield_11085": null,
+        "customfield_11086": null,
+        "customfield_11088": null,
+        "customfield_11089": null,
+        "aggregatetimespent": null,
+        "workratio": -1,
+        "issuerestriction": {
+            "issuerestrictions": {},
+            "shouldDisplay": true
+        },
+        "customfield_11070": null,
+        "customfield_11071": null,
+        "customfield_11072": null,
+        "created": "2024-08-07T11:25:48.080-0400",
+        "customfield_11073": null,
+        "customfield_11074": null,
+        "customfield_11075": null,
+        "customfield_11079": "https://support.uptycs.com/support/uptycs/ShowHomePage.do#Cases/dv/565242000050232001",
+        "customfield_10300": "{}",
+        "customfield_11061": null,
+        "customfield_11062": null,
+        "customfield_11064": null,
+        "customfield_11065": null,
+        "customfield_11067": null,
+        "customfield_11069": null,
+        "security": null,
+        "attachment": [],
+        "customfield_10880": null,
+        "customfield_11057": null,
+        "customfield_10760": null,
+        "customfield_10761": null,
+        "customfield_10762": null,
+        "customfield_10763": null,
+        "customfield_10400": null,
+        "customfield_10874": null,
+        "customfield_10753": null,
+        "customfield_10754": null,
+        "customfield_10755": null,
+        "customfield_10997": {
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/customFieldOption/10797",
+            "value": "CS",
+            "id": "10797"
+        },
+        "customfield_10998": null,
+        "customfield_10756": null,
+        "customfield_10757": null,
+        "customfield_10999": null,
+        "customfield_10758": null,
+        "customfield_10879": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Customer Request"
+                        }
+                    ]
+                }
+            ]
+        },
+        "customfield_10759": null
+    }
+}

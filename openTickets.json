@@ -1,0 +1,1066 @@
+{
+    "expand": "schema,names",
+    "startAt": 0,
+    "maxResults": 50,
+    "total": 46,
+    "issues": [
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "138408",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/138408",
+            "key": "CS-4288",
+            "fields": {
+                "summary": "Uptycs_UUID",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10571",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN TRIAGE",
+                    "id": "10571",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140787",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140787",
+            "key": "CS-4429",
+            "fields": {
+                "summary": "To track of all the recent issues in bbcloud stack (scaling issues)",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140777",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140777",
+            "key": "CS-4427",
+            "fields": {
+                "summary": "High number of restarts on BBcloud(Armada) for couple of assets",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140775",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140775",
+            "key": "CS-4426",
+            "fields": {
+                "summary": "Investigate asset count drops in bbcloud whenever a patch is getting applied (TLS)",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140773",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140773",
+            "key": "CS-4425",
+            "fields": {
+                "summary": "Detection score got dropped from 12 AM UTC to 4 AM UTC on BBcloud",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140772",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140772",
+            "key": "CS-4424",
+            "fields": {
+                "summary": "Serato : Around 15 Assets are restarting for more than 20 times in a day",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140680",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140680",
+            "key": "CS-4421",
+            "fields": {
+                "summary": "Scheduled query destination crossover",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140492",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140492",
+            "key": "CS-4409",
+            "fields": {
+                "summary": "Assistance in creating an User with permission set to download only Uptycs-CLI",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140030",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140030",
+            "key": "CS-4387",
+            "fields": {
+                "summary": "SHEIN - Process events not available from last 7 days on two assets.",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140013",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140013",
+            "key": "CS-4386",
+            "fields": {
+                "summary": "Observing future dates (Event_time) on the alerts/detections page in Cloud2",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "139521",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/139521",
+            "key": "CS-4351",
+            "fields": {
+                "summary": "Asset enrollments & Drop  in bbcloud tenants - Identified Internally",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "139484",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/139484",
+            "key": "CS-4342",
+            "fields": {
+                "summary": "Wix agentless- VM ID is displayed as asset name instead of actual asset name",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "138221",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/138221",
+            "key": "CS-4272",
+            "fields": {
+                "summary": "Uninstalling osquery does not remove LD-PREOAD environment variable",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "138168",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/138168",
+            "key": "CS-4259",
+            "fields": {
+                "summary": "Wrong osquery version displayed in UI",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "137973",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/137973",
+            "key": "CS-4250",
+            "fields": {
+                "summary": "Osquery upgrade is failing for 100 assets on Systems tenant",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "137590",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/137590",
+            "key": "CS-4229",
+            "fields": {
+                "summary": "\"Manage Configurations\" Selection Overriding Current Configuration In AWS Integrations Page",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "137348",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/137348",
+            "key": "CS-4218",
+            "fields": {
+                "summary": "Uptycs is not consistent in delivering vulnerabilities data",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10571",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN TRIAGE",
+                    "id": "10571",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "137066",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/137066",
+            "key": "CS-4210",
+            "fields": {
+                "summary": "Highspot - Mac | High volume process_file_events are generated on upt_macos_sensitive_locations FIM profile",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "136567",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/136567",
+            "key": "CS-4172",
+            "fields": {
+                "summary": "Wix - Host vulnerabilities count showed under AWS --> Resources for an agentless instance is incorrect",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10571",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN TRIAGE",
+                    "id": "10571",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "135999",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/135999",
+            "key": "CS-4138",
+            "fields": {
+                "summary": "Yara process events triggered even though process blocking events not assigned in MAC",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "134600",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/134600",
+            "key": "CS-4070",
+            "fields": {
+                "summary": "Telemetry is still generated in the Process_blocking_events for reason \"Other Endpoint Security agent\"",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "132898",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/132898",
+            "key": "CS-4008",
+            "fields": {
+                "summary": "Hyland.Core.Studio IDE crashes when Uptycs service is running",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10571",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN TRIAGE",
+                    "id": "10571",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "122092",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/122092",
+            "key": "CS-3654",
+            "fields": {
+                "summary": "IBM - AIX machine with MFS file system 5.10 protect version kernel crashing",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "52037",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/52037",
+            "key": "CS-989",
+            "fields": {
+                "summary": "Advanced Filters do not show CIS alerts or SOC2 alerts",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10571",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN TRIAGE",
+                    "id": "10571",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140882",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140882",
+            "key": "CS-4437",
+            "fields": {
+                "summary": "IBM team installed Uptycs on a ClevOs node, post installation seeing errors",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140874",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140874",
+            "key": "CS-4435",
+            "fields": {
+                "summary": "'Credential being brute forced - Linux' showing multiple Attempted logon user as \"invalid user\" and \"unknown user\"",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140816",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140816",
+            "key": "CS-4432",
+            "fields": {
+                "summary": "Chime - auto update message is wrong (says it will update when it's already on latest version)",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140792",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140792",
+            "key": "CS-4430",
+            "fields": {
+                "summary": "Menlo complains our Secret Scan page shows incorrect numbers (0 Configured Assets , 0 Scanned Assets)",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140578",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140578",
+            "key": "CS-4414",
+            "fields": {
+                "summary": "API History page bugs",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140574",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140574",
+            "key": "CS-4413",
+            "fields": {
+                "summary": "1.5 K Sensor Restarts seen in Suse 12 SP4 (4.12) ",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140495",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140495",
+            "key": "CS-4410",
+            "fields": {
+                "summary": "High CPU ( 4 to 6 % on 2 core machine ) and memory utilization (  to cross 120MB occasionally ) observed for Osquery on few ECS tenant hosts",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140440",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140440",
+            "key": "CS-4408",
+            "fields": {
+                "summary": "old detections with no score",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140328",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140328",
+            "key": "CS-4403",
+            "fields": {
+                "summary": "Authenticated session gets destroyed when navigating to sign-in page",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "139548",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/139548",
+            "key": "CS-4354",
+            "fields": {
+                "summary": "PayPal - More number of restarts are being observed on assets with latest version of osquery (5.11.0.8)",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "138863",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/138863",
+            "key": "CS-4311",
+            "fields": {
+                "summary": "Wix - In GCP agentless integration Scanner instances didn't got created",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "137398",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/137398",
+            "key": "CS-4226",
+            "fields": {
+                "summary": "Highspot reported high cpu utilization on a Mac device",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "136573",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/136573",
+            "key": "CS-4176",
+            "fields": {
+                "summary": "Wix - Count of assets on Compliance and secret scanning are not accurate",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10571",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN TRIAGE",
+                    "id": "10571",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "136564",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/136564",
+            "key": "CS-4171",
+            "fields": {
+                "summary": "Wix - Vulnerability card is not visible on few agentless assets",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10571",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN TRIAGE",
+                    "id": "10571",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "136094",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/136094",
+            "key": "CS-4146",
+            "fields": {
+                "summary": "Queries on Hygiene checks",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "133367",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/133367",
+            "key": "CS-4031",
+            "fields": {
+                "summary": "Vulnerability widget intermittent between users - POV Concord Now",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "131730",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/131730",
+            "key": "CS-3969",
+            "fields": {
+                "summary": "Osquery memory utilization is going high continuously",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "131083",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/131083",
+            "key": "CS-3951",
+            "fields": {
+                "summary": "Investigate page doesn't show column with upt_prefix",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "140896",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/140896",
+            "key": "CS-4439",
+            "fields": {
+                "summary": "[Lookout] - Uptycs console certificate update",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10568",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10568",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "139049",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/139049",
+            "key": "CS-4321",
+            "fields": {
+                "summary": "After 158 upgrade in BB-cloud seeing timed out error in Offline Tracker UI",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "138219",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/138219",
+            "key": "CS-4271",
+            "fields": {
+                "summary": "Weird conflict with Uptycs and Sieble SSO Module",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10571",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN TRIAGE",
+                    "id": "10571",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "135265",
+            "self": "https://uptycsjira.atlassian.net/rest/api/3/issue/135265",
+            "key": "CS-4099",
+            "fields": {
+                "summary": "Observing some corrupted details for some fields in process_blocking_events table",
+                "status": {
+                    "self": "https://uptycsjira.atlassian.net/rest/api/3/status/10573",
+                    "description": "",
+                    "iconUrl": "https://uptycsjira.atlassian.net/",
+                    "name": "IN REVIEW",
+                    "id": "10573",
+                    "statusCategory": {
+                        "self": "https://uptycsjira.atlassian.net/rest/api/3/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "In Progress"
+                    }
+                }
+            }
+        }
+    ]
+}
